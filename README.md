@@ -1,3 +1,22 @@
+# CrewAI Travel Agents
+http://y2u.be/zAjcPRjnORg
+https://mer.vin/2024/01/crew-ai-travel-agents/
+
+# Summary
+This video discusses the use of AI agents in trip planning. The AI agents work together to find and create itineraries based on user preferences. The video provides step-by-step instructions on how to run the code locally on your computer.
+
+# Highlights
+🤖 AI agents are used to find and create trip itineraries based on user preferences.\
+📝 Step-by-step instructions are provided on how to run the code locally on your computer.\
+🌍 The AI agents use various tools and websites to gather information about cities, attractions, events, and more.\
+💼 The agents work together to complete tasks such as city selection, providing insights, and creating a travel itinerary.\
+💰 The itinerary includes information on attractions, budget, and daily activities for a 7-day trip.
+
+# Keywords
+AI agents\
+trip planning\
+itinerary
+
 # Examples for crewAI
 ## Introduction
 crewAI is designed to facilitate the collaboration of role-playing AI agents.
